@@ -44,7 +44,10 @@
       "ava/no-ignored-test-files": [
         "error",
         {
-          "files": ["is-balanced.spec.js", "test/**/*.spec.js"]
+          "files": [
+            "is-balanced.spec.js",
+            "test/**/*.spec.js"
+          ]
         }
       ],
       "no-unused-vars": [
